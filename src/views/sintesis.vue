@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 Las acciones de mejora en los servicios de salud, deben realizarse en concordancia con la prestación del servicio, teniendo en cuenta no sólo las políticas gubernamentales e institucionales, sino, tener muy presente cómo se realizan los informes y cómo de estos se desprenden los planes de mejoramiento, con el objetivo de satisfacer las necesidades de los usuarios y la percepción de calidad en la prestación del servicio. Para dar cumplimiento con esto, se tendrán en cuenta algunas nociones presentadas en el siguiente mapa conceptual:
 
     .row.justify-content-center
       .col-lg-10.mb-5
