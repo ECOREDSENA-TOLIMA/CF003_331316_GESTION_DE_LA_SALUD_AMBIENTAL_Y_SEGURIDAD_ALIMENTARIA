@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Las acciones de mejora en la calidad del servicio
-        p.mb-4 #[b Objetivo:] Apropiar los conceptos que se encuentran presentes en las acciones de mejora para incrementar la calidad de la prestación de servicios de salud a los colombianos.
+        p.mb-4 #[b Objetivo:] apropiar los conceptos que se encuentran presentes en las acciones de mejora para incrementar la calidad de la prestación de servicios de salud a los colombianos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

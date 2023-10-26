@@ -3,16 +3,12 @@ export default {
     componenteFormativo: 'Acciones de mejora en los servicios de salud',
     descripcionCurso:
       'La ley 1122 del 2007, transforma el Sistema General de Seguridad Social en Salud e impone normas para el mejoramiento en la prestación del servicio a los usuarios, involucrando a la dirección y los actores participantes, así como la racionalización de la prestación, fortaleciendo los programas de salud pública y las funciones de inspección, vigilancia y control de dicha organización.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
     ],
   },
