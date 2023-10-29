@@ -331,7 +331,7 @@
       .col-12.col-lg-11(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido.mb-1
           p.titulo.pb-0.mb-0 #[b Tabla 1.] #[i Aspectos a evaluar en la encuesta] 
-        .tabla-b.color-acento-contenido
+        .tabla-a.color-acento-contenido
           table(style="min-width:auto")
             thead
               tr.cabecera-a.text-center
@@ -380,7 +380,7 @@
                       | Calidad del servicio.
                     li.mb-0 
                       span ✔ 
-                      | ✔	Categorías evaluadas.
+                      | Categorías evaluadas.
                 td Efectividad, orientación técnica, cordialidad, utilidad y claridad.
               tr
                 td 
@@ -391,7 +391,7 @@
                       | Calidad del servicio.
                     li.mb-0 
                       span ✔ 
-                      | ✔	Categorías evaluadas.
+                      | Categorías evaluadas.
                 td Efectividad, orientación técnica, cordialidad, utilidad y claridad.
               tr
                 td 
@@ -402,7 +402,7 @@
                       | Calidad del servicio.
                     li.mb-0 
                       span ✔ 
-                      | ✔	Categorías evaluadas.
+                      | Categorías evaluadas.
                 td Efectividad, orientación técnica, cordialidad, utilidad y claridad.
 
     Separador
