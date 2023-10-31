@@ -319,7 +319,7 @@
           .tarjeta.color-primario-c
             .p-4
               h4 Centrado en las personas
-              p proporcionar atención en salud que manifieste las preferencias, necesidades y valores propios.
+              p Proporcionar atención en salud que manifieste las preferencias, necesidades y valores propios.
               
     h4.mb-4.text-center(data-aos="fade-left") Para aprovechar los beneficios de una atención médica de calidad, los servicios de salud deben ser:
 

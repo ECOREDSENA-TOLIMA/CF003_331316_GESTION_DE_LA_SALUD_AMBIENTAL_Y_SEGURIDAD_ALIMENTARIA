@@ -86,8 +86,8 @@
         .col-12.col-md-6.col-lg-5
           img(src='@/assets/curso/temas/tema1/tema1-2.svg', alt='')
 
-    p.mb-3(data-aos="fade-down") No es de olvidar que el Sistema Obligatorio de Garantía de Calidad en Salud (SOGCS) trabaja mancomunadamente con la política pública en el entorno de la prestación de servicios de salud y corresponde al conjunto de instituciones, normas, requisitos, mecanismos y procesos deliberados y sistemáticos del sector salud, para generar, mantener y mejorar la calidad de servicio de salud en el país.
-    p.mb-5(data-aos="fade-down") El SOGCS está integrado por cuatro componentes a saber o subsistemas, estos son: 
+    p.mb-3(data-aos="fade-down") No es de olvidar que el Sistema Obligatorio de Garantía de Calidad en Salud (SOGCS), trabaja mancomunadamente con la política pública en el entorno de la prestación de servicios de salud y corresponde al conjunto de instituciones, normas, requisitos, mecanismos y procesos deliberados y sistemáticos del sector salud, para generar, mantener y mejorar la calidad de servicio de salud en el país.
+    p.mb-5(data-aos="fade-down") El SOGCS, está integrado por cuatro componentes a saber o subsistemas, estos son: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-12.col-lg-11
@@ -196,7 +196,7 @@
         .tarjeta.color-primario.p-3(x="75%" y="18%" numero="+")
           p El seguimiento y evaluación del PNMCS se realizará teniendo en cuenta la línea base formulada a través del reporte realizado por las entidades objeto del ámbito de aplicación de la Resolución 256 de 2016 y por el Informe Nacional de Calidad, Colombia 2015.
         .tarjeta.color-primario.p-3(x="38.2%" y="53%" numero="+")
-          p Consolidar una cultura de monitoreo y evaluación de las distintas entidades territoriales y en todos los agentes del Sistema.
+          p Consolidar una cultura de monitoreo y evaluación de las distintas entidades territoriales y en todos los agentes del sistema.
         .tarjeta.color-primario.p-3(x="75%" y="79%" numero="+")
           p Gestionar el conocimiento derivado de la evidencia necesaria para orientar la formulación del PNMCS.
     
@@ -210,7 +210,7 @@
       .col-12.mb-2 
         .tarjeta.color-primario.p-3
           h4 Consolidar la cultura de seguimiento
-          p Consolidar una cultura de monitoreo y evaluación de las distintas entidades territoriales y en todos los agentes del Sistema.
+          p Consolidar una cultura de monitoreo y evaluación de las distintas entidades territoriales y en todos los agentes del sistema.
       .col-12.mb-2 
         .tarjeta.color-primario.p-3
           h4 Gestionar conocimiento
