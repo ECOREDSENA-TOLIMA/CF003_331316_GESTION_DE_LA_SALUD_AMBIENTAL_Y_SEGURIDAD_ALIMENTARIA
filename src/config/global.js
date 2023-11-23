@@ -181,7 +181,7 @@ export default {
     {
       termino: 'Aseguramiento del riesgo en salud',
       significado:
-        'Es la aplicación de la técnica de seguros a la provisión de actividades donde se realice una concientización de la responsabilidad que tiene el individuo sobre los estilos de vida, para que estos sean modificados y así tener menos probabilidades de enfermarse y de tener secuelas de esas patologías, además de los servicios asistenciales sanitarios, con las características para el afiliado descritas anteriormente, en un marco de administración del riesgo epidemiológico con la intención de garantizar tanto la generación de salud a la población afiliada como la contención de actividades costo-efectivas. ',
+        'Es la aplicación de la técnica de seguros a la provisión de actividades donde se realice una concientización de la responsabilidad que tiene el individuo sobre los estilos de vida, para que estos sean modificados y así tener menos probabilidades de enfermarse y de tener secuelas de esas patologías, además de los servicios asistenciales sanitarios, con las características para el afiliado descritas anteriormente, en un marco de administración del riesgo epidemiológico con la intención de garantizar tanto la generación de salud a la población afiliada como la contención de actividades costo-efectividad. ',
     },
     {
       termino: 'Calidad de la atención de salud',
@@ -211,7 +211,7 @@ export default {
     {
       termino: 'Riesgo en salud',
       significado:
-        'Se define como la probabilidad de un resultado adverso, o un factor que aumenta esa probabilidad. Para proteger a la población y ayudarla a protegerse a sí misma, los gobiernos necesitan poder evaluar los riesgos y elegir las intervenciones más costo efectivas y accesibles para evitar que se produzcan esos riesgos. ',
+        'Se define como la probabilidad de un resultado adverso, o un factor que aumenta esa probabilidad. Para proteger a la población y ayudarla a protegerse a sí misma, los gobiernos necesitan poder evaluar los riesgos y elegir las intervenciones más costo efectividad y accesibles para evitar que se produzcan esos riesgos. ',
     },
     {
       termino: 'Salud',

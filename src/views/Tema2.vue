@@ -25,7 +25,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/tema2-2.svg', alt='')
         h4.text-center Retroalimentación
-        p Con este mecanismo de acción el Plan Nacional de Mejoramiento de la Calidad en Salud, se propone establecer, con la participación de los agentes del sistema, la continua revisión del proceso y resultado de la implementación del mismo para llevar a cabo los ajustes requeridos.
+        p Con este mecanismo de acción, el Plan Nacional de Mejoramiento de la Calidad en Salud, se propone establecer, con la participación de los agentes del sistema, la continua revisión del proceso y resultado de la implementación del mismo para llevar a cabo los ajustes requeridos.
 
     .tarjeta.color-acento-contenido.row.p-lg-5.p-4.mb-5(data-aos="fade-down-right")
       .col-12
@@ -108,7 +108,7 @@
         .tarjeta.tarjeta--azul.p-3(x="5.5%" y="21%" numero="+")
           p Tienen como ente social la prestación de servicios de salud y además se encuentran habilitadas por el Sistema Obligatorio de Garantía de Calidad (SOGC), Resolución 1441 de 2013. En Colombia, las IPS se han numerado, de acuerdo con su naturaleza jurídica, en públicas, privadas y mixtas. Solo para las públicas consta una categorización de acuerdo con el nivel de complejidad de la institución de salud.
         .tarjeta.tarjeta--azul.p-3(x="55.5%" y="21%" numero="+")
-          p Persona natural profesional universitario titulado en un programa de ciencias de la salud, de acuerdo con normatividad regente, con facultades para actuar de manera autónoma en la prestación del servicio de salud, podrá contar con personal de apoyo de los niveles de formación técnico y/o auxiliar y no les será exigido el Programa de Auditoría para el Mejoramiento de la Calidad de la Atención de Salud. (PAMEC)
+          p Persona natural, profesional universitario titulado en un programa de ciencias de la salud, de acuerdo con normatividad regente, con facultades para actuar de manera autónoma en la prestación del servicio de salud, podrá contar con personal de apoyo de los niveles de formación técnico y/o auxiliar y no les será exigido el Programa de Auditoría para el Mejoramiento de la Calidad de la Atención de Salud (PAMEC).
         .tarjeta.tarjeta--azul.p-3(x="55.5%" y="58%" numero="+")
           p Su objeto social no es la prestación de servicios de salud y que por requerimientos propios de la actividad que realizan, brindan servicios de baja complejidad y/o consulta especializada, que no incluyen servicios de hospitalización, ni quirúrgicos.
         .tarjeta.tarjeta--azul.p-3(x="5.5%" y="58%" numero="+")
@@ -123,7 +123,7 @@
       .col-12.mb-2
         .tarjeta.color-primario.p-3
           h4 Profesionales independientes
-          p Persona natural profesional universitario titulado en un programa de ciencias de la salud, de acuerdo con normatividad regente, con facultades para actuar de manera autónoma en la prestación del servicio de salud, podrá contar con personal de apoyo de los niveles de formación técnico y/o auxiliar y no les será exigido el Programa de Auditoría para el Mejoramiento de la Calidad de la Atención de Salud. (PAMEC)
+          p Persona natural, profesional universitario titulado en un programa de ciencias de la salud, de acuerdo con normatividad regente, con facultades para actuar de manera autónoma en la prestación del servicio de salud, podrá contar con personal de apoyo de los niveles de formación técnico y/o auxiliar y no les será exigido el Programa de Auditoría para el Mejoramiento de la Calidad de la Atención de Salud (PAMEC).
       .col-12.mb-2
         .tarjeta.color-primario.p-3
           h4 Entidades con objeto social diferente
@@ -368,8 +368,8 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.col-12.mb-2.mb-lg-0(data-aos="fade-down-right")
-        p Por lo tanto, el resultado pretende suministrar fundamentos notables que reflejen el estado actual del servicio de salud, proporcionado por las entidades prestadoras de salud a fin de identificar posibles faltas y, de potenciar las actuales fortalezas de estos servicios en el territorio nacional.
-        p Fundamentalmente la satisfacción del usuario se ve manifiesta cuando sus expectativas fueron alcanzadas o resaltadas por lo ofrecido por los servicios de salud. En este sentido, la calidad de la atención es la capacidad de compensar las expectativas del usuario ampliamente requerida, lo cual es la tarea más compleja, pues en algunas mediciones se arroja hasta un 58 % de insatisfacción, bien sea por no resolver el problema, o las dificultades presentadas para obtener su solución.
+        p Por lo tanto, el resultado pretende suministrar fundamentos notables que reflejen el estado actual del servicio de salud, proporcionado por las entidades prestadoras de salud, a fin de identificar posibles faltas y, de potenciar las actuales fortalezas de estos servicios en el territorio nacional.
+        p Fundamentalmente, la satisfacción del usuario se ve manifiesta cuando sus expectativas fueron alcanzadas o resaltadas por lo ofrecido por los servicios de salud. En este sentido, la calidad de la atención es la capacidad de compensar las expectativas del usuario ampliamente requerida, lo cual es la tarea más compleja, pues en algunas mediciones se arroja hasta un 58 % de insatisfacción, bien sea por no resolver el problema, o las dificultades presentadas para obtener su solución.
         p Planear la medición, es significativo para la valoración de la satisfacción de todos los bienes y/o servicios que ofrece la entidad y de esta forma, la actividad se convierte en parte de la cultura del mejoramiento continuo, por lo cual se propone la vigilancia de los siguientes aspectos: 
       .col-lg-4.col-10(data-aos="fade-down-left")
         figure
@@ -421,8 +421,8 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.col-12.mb-2.mb-lg-0(data-aos="fade-down-right")
-        p Crear la inclusión de dichas actividades establecidas en el plan de gestión que permitirá garantizar en la entidad que la medición se realice con más disciplina, con más responsabilidad convirtiéndose en un factor determinante para el mejoramiento de los servicios de salud.
-        p Una vez analizado las herramientas de trabajos se anexa el formato donde se propone determinar que las entidades lo utilicen para registrar información que incorpore a la planeación la medición y respuestas que generen un consolidado o resumen de la información básica sobre la temática, este servirá como documento de fácil consulta para todos los líderes de proceso y los servidores en las entidades territoriales.
+        p Crear la inclusión de dichas actividades establecidas en el plan de gestión que permitirá garantizar en la entidad que la medición se realice con más disciplina, con más responsabilidad, convirtiéndose en un factor determinante para el mejoramiento de los servicios de salud.
+        p Una vez analizado las herramientas de trabajos, se anexa el formato donde se propone determinar que las entidades lo utilicen para registrar información que incorpore a la planeación, la medición y respuestas que generen un consolidado o resumen de la información básica sobre la temática, este servirá como documento de fácil consulta para todos los líderes de proceso y los servidores en las entidades territoriales.
         p Para nuestros conocimientos se relaciona el formato que corresponde las etapas en la aplicación de los mecanismos de medición de satisfacción por los usuarios, diligenciados en las columnas a), b), c), d), e), f), g), h) i), y j), de acuerdo con las siguientes instrucciones:
       .col-lg-4.col-10(data-aos="fade-down-left")
         figure
@@ -521,7 +521,7 @@
             img(src='@/assets/curso/temas/tema2/tema2-35.png', alt='')
       .row(titulo="Implementación de la mejora")
         .col-md-6.mb-4.mb-md-0
-          p En correspondencia con el #[b PQRS] y buzón de sugerencias la fase del hacer de este componente se da a través de la implementación del procedimiento que tenga determinado cada entidad, teniendo presentes los lineamientos y protocolos que la entidades o distritos de servicio en salud respondan al ciudadano en relación con el tema.
+          p En correspondencia con el #[b PQRS] y buzón de sugerencias, la fase del hacer de este componente se da a través de la implementación del procedimiento que tenga determinado cada entidad, teniendo presentes los lineamientos y protocolos que las entidades o distritos de servicio en salud respondan al ciudadano en relación con el tema.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema2/tema2-36.png', alt='')
@@ -539,7 +539,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.mb-2.mb-lg-0(data-aos="fade-down-right")
-        p Es importante que la información sea revisada y analizada con cada uno de los servidores involucrados en los procesos y procedimientos y que se determine la acción(es) (de mejora, correctiva o preventiva o respuestas evaluativas con miras a soluciones, para mejorar la prestación del buen servicio, el procedimiento o el elemento que se detecte en el análisis de la información.
+        p Es importante que la información sea revisada y analizada con cada uno de los servidores involucrados en los procesos y procedimientos y que se determine la acción(es) (de mejora, correctiva o preventiva o respuestas evaluativas con miras a soluciones, para mejorar la prestación del buen servicio, el procedimiento o el elemento que se detecte en el análisis de la información).
         p Es necesario que primero se garantice el cumplimiento de las características de calidad de los productos de la entidad, lo que conlleva también a incrementar su capacidad para dar respuesta a los usuarios y partes interesadas. Además, el buzón de sugerencias es una herramienta que también sirve para recopilar información de los usuarios internos para la mejora continua de los procesos de apoyo de la entidad, lo cual se debería tomar como una importante herramienta, en donde el usuario deposite las observaciones que tenga frente a los insumos que entre dependencias se deben intercambiar en el desarrollo de los diferentes procesos de gestión de la institución del estado o bien de una privada.
         ul.lista-ul.ms-3
           li 

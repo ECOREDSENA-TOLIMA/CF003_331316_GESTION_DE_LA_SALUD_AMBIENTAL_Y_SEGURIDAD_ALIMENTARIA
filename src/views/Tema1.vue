@@ -369,7 +369,7 @@
                       | Calidad del servicio.
                     li.mb-0 
                       span ✔ 
-                      | ✔	Categorías evaluadas.
+                      | Categorías evaluadas.
                 td Efectividad, orientación técnica, cordialidad, utilidad y claridad.
               tr
                 td 
@@ -473,28 +473,28 @@
             .col-7
               figure
                 img(src='@/assets/curso/temas/tema1/tema1-17.png', alt='')
-          p.text-small Intentar distinguir los eventos adversos propiamente dichos, de las complicaciones propias de la patología del paciente, no asociadas al proceso de atención. 
+          p Intentar distinguir los eventos adversos propiamente dichos, de las complicaciones propias de la patología del paciente, no asociadas al proceso de atención. 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0.d-flex.align-items-stretch
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/temas/tema1/tema1-18.png', alt='')
-          p.text-small Incluir solo eventos con daño o bien agregar todos los errores o incidentes.
+          p Incluir solo eventos con daño o bien agregar todos los errores o incidentes.
       .col-sm-6.col-lg-3.mb-4.mb-sm-0.d-flex.align-items-stretch
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/temas/tema1/tema1-19.png', alt='')
-          p.text-small La vulnerabilidad de los eventos. Todos los prevenibles (posibles o no) y las dificultades prácticas que se deben investigar en el caso.
+          p La vulnerabilidad de los eventos. Todos los prevenibles (posibles o no) y las dificultades prácticas que se deben investigar en el caso.
       .col-sm-6.col-lg-3.d-flex.align-items-stretch
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/temas/tema1/tema1-20.png', alt='')
-          p.text-small Áreas de la atención a los que se están asociados: uso de medicamentos, accidentes, infecciones, quirúrgicos, todas, etc.
+          p Áreas de la atención a los que se están asociados: uso de medicamentos, accidentes, infecciones, quirúrgicos, todas, etc.
 
     p.mb-4(data-aos="fade-down") Además, se deben tener presente las definiciones del caso o evento de acuerdo con la normatividad establecida:
 
@@ -584,7 +584,7 @@
       .tarjeta.color-primario.p-4(titulo="No punitivo")
         p Las personas que notifican están libres del miedo a represalias o sanciones como resultado de la notificación. 
       .tarjeta.color-primario.p-4(titulo="Confidencial")
-        p La identificación del paciente, notificador y la institución nunca deben ser reveladas a terceras personas. 
+        p La identificación del paciente, notificado y la institución nunca deben ser reveladas a terceras personas. 
       .tarjeta.color-primario.p-4(titulo="Independiente")
         p El programa es independiente de cualquier autoridad con poder para sancionar a la organización o al notificante.
         
